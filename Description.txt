@@ -10,3 +10,5 @@ In the MatMul.java file. There are two methods. The Multiplication method takes 
 iteratively. The displayAnswer method is the method which displays the answer matrix in matrix form. It takes one matrix (2-d 
 array) as an argument. Finally, in the main function, two matrices are hard-coded and then both these functions are applied on
 these two hard-coded matrices to display the final answer on the screen.
+
+GitHub Repo Link: https://github.com/shahnawaz12321/ShahNawazKhan_Lab1_108601/
