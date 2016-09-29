@@ -1,0 +1,12 @@
+The iterative matrix multiplication method has been implemented. I was unable to apply it using Strassen's algorithm due to 
+shortage of time. 
+
+I have developed the iterative method as MatMul.java. I have also written a unit test for it, though it is failing and I wasn't
+able to find out why. The test can be found in Lab1/MatMul/test/matmul/MatMulTest.java.
+
+I have also made a .jar library of the project which can be found in Lab1/MatMul/dist/MatMul.jar.
+
+In the MatMul.java file. There are two methods. The Multiplication method takes two matrices as arguments and multiplies them
+iteratively. The displayAnswer method is the method which displays the answer matrix in matrix form. It takes one matrix (2-d 
+array) as an argument. Finally, in the main function, two matrices are hard-coded and then both these functions are applied on
+these two hard-coded matrices to display the final answer on the screen.
